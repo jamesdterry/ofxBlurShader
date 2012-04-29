@@ -1,0 +1,3 @@
+This is a very lightly refactored version of Kyle McDonald's ofBlur
+example (https://github.com/kylemcdonald/SubdivisionOfRoam/tree/master/GaussianBlur). It's
+been updated to OF 007.
